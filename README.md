@@ -11,7 +11,7 @@
 - Excel (Data Cleaning, Pivot Tables, Dashboards)
 - Python (Pandas, NumPy, Matplotlib)
 - SQL
-- Power B
+- Power BI
 
 ---
 
